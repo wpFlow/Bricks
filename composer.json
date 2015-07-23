@@ -1,0 +1,24 @@
+{
+  "name": "wpFlow/Bricks",
+  "type": "Package",
+  "license": "MIT",
+  "description": "wpFlow Application",
+  "homepage": "https://vectoholic.de",
+  "authors": [
+    {
+      "name": "Dennis Schröder",
+      "email": "info@vectoholic.com",
+      "homepage": "https://github.com/vectohlic"
+    }
+  ],
+  "keywords": [
+    "vectoholic", "wpFlow", "wordpress", "Framework-Package", "composer", "vagrant", "wp", "Framework", "OOP","Configurations"
+  ],
+  "support": {
+    "issues": "https://github.com/wpFlow/Bricks/issues"
+  },
+  
+  "require": {
+    "wpFlow/Core":"*"
+  }
+}
