@@ -24,7 +24,7 @@
     "wpFlow/CPT":"*"
   },
   "autoload": {
-    "psr-4": {
+    "psr-0": {
       "wpFlow\\Bricks": "Classes"
     }
   }
