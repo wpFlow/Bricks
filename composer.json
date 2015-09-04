@@ -19,6 +19,13 @@
   },
   
   "require": {
-    "wpFlow/Core":"*"
+    "php": ">=5.5",
+    "composer/installers": "~1.0.12",
+    "wpFlow/CPT":"*"
+  },
+  "autoload": {
+    "psr-4": {
+      "wpFlow\\Bricks": "Classes"
+    }
   }
 }
